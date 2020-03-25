@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Xray-webapp/static/css/main.d12c4549.chunk.css",
+    "main.js": "/Xray-webapp/static/js/main.1aa41258.chunk.js",
+    "main.js.map": "/Xray-webapp/static/js/main.1aa41258.chunk.js.map",
+    "runtime-main.js": "/Xray-webapp/static/js/runtime-main.324a8817.js",
+    "runtime-main.js.map": "/Xray-webapp/static/js/runtime-main.324a8817.js.map",
+    "static/js/2.e2501fe2.chunk.js": "/Xray-webapp/static/js/2.e2501fe2.chunk.js",
+    "static/js/2.e2501fe2.chunk.js.map": "/Xray-webapp/static/js/2.e2501fe2.chunk.js.map",
+    "index.html": "/Xray-webapp/index.html",
+    "precache-manifest.ed47f0ee8f87db91cfdcbc7d3b9f5e31.js": "/Xray-webapp/precache-manifest.ed47f0ee8f87db91cfdcbc7d3b9f5e31.js",
+    "service-worker.js": "/Xray-webapp/service-worker.js",
+    "static/css/main.d12c4549.chunk.css.map": "/Xray-webapp/static/css/main.d12c4549.chunk.css.map",
+    "static/js/2.e2501fe2.chunk.js.LICENSE.txt": "/Xray-webapp/static/js/2.e2501fe2.chunk.js.LICENSE.txt",
+    "static/js/main.1aa41258.chunk.js.LICENSE.txt": "/Xray-webapp/static/js/main.1aa41258.chunk.js.LICENSE.txt",
+    "static/media/nucleo-icons.css": "/Xray-webapp/static/media/nucleo.f0b489a5.woff",
+    "static/media/parag.jpeg": "/Xray-webapp/static/media/parag.237ce3b3.jpeg",
+    "static/media/quit.png": "/Xray-webapp/static/media/quit.dc8a2982.png",
+    "static/media/sih-logo.png": "/Xray-webapp/static/media/sih-logo.43b33006.png",
+    "static/media/summer-of-code-logo.svg": "/Xray-webapp/static/media/summer-of-code-logo.7ad1526c.svg",
+    "static/media/tick.png": "/Xray-webapp/static/media/tick.14662814.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324a8817.js",
+    "static/js/2.e2501fe2.chunk.js",
+    "static/css/main.d12c4549.chunk.css",
+    "static/js/main.1aa41258.chunk.js"
+  ]
+}
